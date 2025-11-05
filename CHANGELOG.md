@@ -2,6 +2,29 @@
 
 All notable changes to NDF Inventory Tracker will be documented in this file.
 
+## [v1.0.13] - 2025-11-05
+
+### Release
+
+- Official build v1.0.13
+- Built from commit: `ee09889c0a2838b5298e89354b4a9ce852e22c47`
+- Build date: 2025-11-05 19:39:49 UTC
+
+### Installation
+
+Download `NDF-Inventory-Tracker-Setup-1.0.13.exe` from the [releases](https://github.com/Ashfanndm/ndf-inventory-tracker-build/releases/tag/v1.0.13) page.
+
+### Security
+
+SHA256 checksums are provided for all downloads. Always verify before installing.
+
+---
+
+
+# Changelog
+
+All notable changes to NDF Inventory Tracker will be documented in this file.
+
 ## [v1.0.12] - 2025-10-18
 
 ### Release
@@ -88,6 +111,7 @@ Download `NDF-Inventory-Tracker-Setup-1.0.8.exe` from the [releases](https://git
 SHA256 checksums are provided for all downloads. Always verify before installing.
 
 ---
+
 
 
 
