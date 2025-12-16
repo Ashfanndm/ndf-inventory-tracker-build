@@ -2,13 +2,13 @@
 
 Latest stable release builds for NDF Inventory Tracker
 
-## Latest Release: v1.0.24
+## Latest Release: v1.0.25
 
-**Release Date**: December 14, 2025
+**Release Date**: December 16, 2025
 
 ### Download
 
-**[Download NDF-Inventory-Tracker-Setup-1.0.24.exe](https://github.com/Ashfanndm/ndf-inventory-tracker-build/releases/download/v1.0.24/NDF-Inventory-Tracker-Setup-1.0.24.exe)** (123.9 MB)
+**[Download NDF-Inventory-Tracker-Setup-1.0.25.exe](https://github.com/Ashfanndm/ndf-inventory-tracker-build/releases/download/v1.0.25/NDF-Inventory-Tracker-Setup-1.0.25.exe)** (123.91 MB)
 
 ### Verify Download
 
@@ -16,8 +16,8 @@ Always verify the SHA256 checksum before installation.
 
 PowerShell verification:
 ```powershell
-$hash = Get-FileHash -Path "NDF-Inventory-Tracker-Setup-1.0.24.exe" -Algorithm SHA256
-$expected = (Get-Content "NDF-Inventory-Tracker-Setup-1.0.24.exe.sha256").Split()[0]
+$hash = Get-FileHash -Path "NDF-Inventory-Tracker-Setup-1.0.25.exe" -Algorithm SHA256
+$expected = (Get-Content "NDF-Inventory-Tracker-Setup-1.0.25.exe.sha256").Split()[0]
 if ($hash.Hash -eq $expected) { Write-Host "✅ Verified" } else { Write-Host "❌ Checksum mismatch" }
 ```
 
